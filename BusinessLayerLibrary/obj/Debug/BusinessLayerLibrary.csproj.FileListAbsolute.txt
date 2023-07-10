@@ -1,0 +1,12 @@
+D:\Softwares\__Estudo\DanielGanaha\dotNet\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.csproj.AssemblyReference.cache
+D:\Softwares\__Estudo\DanielGanaha\dotNet\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.csproj.CoreCompileInputs.cache
+D:\Softwares\__Estudo\DanielGanaha\dotNet\BusinessLayerLibrary\bin\Debug\BusinessLayerLibrary.dll
+D:\Softwares\__Estudo\DanielGanaha\dotNet\BusinessLayerLibrary\bin\Debug\BusinessLayerLibrary.pdb
+D:\Softwares\__Estudo\DanielGanaha\dotNet\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.dll
+D:\Softwares\__Estudo\DanielGanaha\dotNet\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.pdb
+C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\bin\Debug\BusinessLayerLibrary.dll
+C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\bin\Debug\BusinessLayerLibrary.pdb
+C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.csproj.AssemblyReference.cache
+C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.csproj.CoreCompileInputs.cache
+C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.dll
+C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.pdb
