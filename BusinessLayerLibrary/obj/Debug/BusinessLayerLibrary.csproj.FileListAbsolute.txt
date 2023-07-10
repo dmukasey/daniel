@@ -10,3 +10,9 @@ C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\Busine
 C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.csproj.CoreCompileInputs.cache
 C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.dll
 C:\DEV\Mentoria\.NET\WebApplication-Daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.pdb
+C:\Users\dmuka\Source\Repos\daniel\BusinessLayerLibrary\bin\Debug\BusinessLayerLibrary.dll
+C:\Users\dmuka\Source\Repos\daniel\BusinessLayerLibrary\bin\Debug\BusinessLayerLibrary.pdb
+C:\Users\dmuka\Source\Repos\daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.csproj.AssemblyReference.cache
+C:\Users\dmuka\Source\Repos\daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dmuka\Source\Repos\daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.dll
+C:\Users\dmuka\Source\Repos\daniel\BusinessLayerLibrary\obj\Debug\BusinessLayerLibrary.pdb
