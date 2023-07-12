@@ -15,3 +15,4 @@ namespace BusinessLayerLibrary
         public string Senha { get; set; }
     }
 }
+
