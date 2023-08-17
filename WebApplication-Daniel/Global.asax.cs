@@ -17,5 +17,10 @@ namespace WebApplication_Daniel
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+
+        void Application_End(object sender, EventArgs e)
+        {
+            var x = 1;
+        }
     }
 }

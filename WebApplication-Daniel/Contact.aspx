@@ -1,8 +1,12 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="WebApplication_Daniel.Contact" %>
 
+<%@ Register src="menu.ascx" tagname="menu" tagprefix="uc1" %>
+
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <main aria-labelledby="title">
-        <h2 id="title"><%: Title %>.</h2>
+        <h2 id="title"><%: Title %>
+            <uc1:menu ID="menu1" runat="server" />
+    </h2>
         <h3>Your contact page.</h3>
         <address>
             One Microsoft Way<br />
