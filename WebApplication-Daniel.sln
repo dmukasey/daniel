@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication-Daniel", "We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayerLibrary", "BusinessLayerLibrary\BusinessLayerLibrary.csproj", "{6B3AC99B-5A59-402F-ADF8-8CD0F360DB9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Daniel.Web.UI", "Daniel.Web.UI\Daniel.Web.UI.csproj", "{B1A57974-BBEE-4C51-8071-09C5C4D93EAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6B3AC99B-5A59-402F-ADF8-8CD0F360DB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B3AC99B-5A59-402F-ADF8-8CD0F360DB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B3AC99B-5A59-402F-ADF8-8CD0F360DB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A57974-BBEE-4C51-8071-09C5C4D93EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A57974-BBEE-4C51-8071-09C5C4D93EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A57974-BBEE-4C51-8071-09C5C4D93EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A57974-BBEE-4C51-8071-09C5C4D93EAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

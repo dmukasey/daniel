@@ -40,7 +40,8 @@ namespace WebApplication_Daniel
                 client.Login = txt_user.Text;
                 client.Senha = txt_pass.Text;
                 if (EfetuarLogin(client)==true)
-                    Response.Redirect("default.aspx");
+                    //Response.Redirect("default.aspx");
+                    lbl_mensagem.Text = "Sucesso";           
                 else
                     lbl_mensagem.Text = "Erro no login";
             }

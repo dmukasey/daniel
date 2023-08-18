@@ -42,7 +42,7 @@
 
         <p style="text-align: center">
             <asp:Button ID="btn_enviar" runat="server" OnClick="btn_enviar_Click" Style="text-align: center" Text="Enviar" />
-            <asp:ValidationSummary ID="ValidationSummary1" runat="server" ForeColor="Red" ShowMessageBox="True" ShowSummary="False" Style="text-align: center" />
+            <asp:ValidationSummary ID="ValidationSummary1" runat="server" ForeColor="Red" ShowMessageBox="True" Style="text-align: center" />
             <p>
                 <asp:Label ID="lbl_mensagem" runat="server" ForeColor="#CC0000" Style="text-align: center"></asp:Label>
             </p>

@@ -270,6 +270,10 @@
       <Project>{6b3ac99b-5a59-402f-adf8-8cd0f360db9d}</Project>
       <Name>BusinessLayerLibrary</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Daniel.Web.UI\Daniel.Web.UI.csproj">
+      <Project>{b1a57974-bbee-4c51-8071-09c5c4d93eaa}</Project>
+      <Name>Daniel.Web.UI</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

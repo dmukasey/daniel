@@ -13,5 +13,23 @@ namespace WebApplication_Daniel
 
     public partial class Contact
     {
+
+        /// <summary>
+        /// menu1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::WebApplication_Daniel.menu menu1;
+
+        /// <summary>
+        /// TextBoxCNPJ1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Daniel.Web.UI.TextBoxCNPJ TextBoxCNPJ1;
     }
 }

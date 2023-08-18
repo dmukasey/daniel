@@ -152,3 +152,5 @@ C:\Users\dmuka\Source\Repos\daniel\WebApplication-Daniel\obj\Debug\WebApplicatio
 C:\Users\dmuka\Source\Repos\daniel\WebApplication-Daniel\obj\Debug\WebApplication-Daniel.csproj.CopyComplete
 C:\Users\dmuka\Source\Repos\daniel\WebApplication-Daniel\obj\Debug\WebApplication-Daniel.dll
 C:\Users\dmuka\Source\Repos\daniel\WebApplication-Daniel\obj\Debug\WebApplication-Daniel.pdb
+C:\Users\dmuka\Source\Repos\daniel\WebApplication-Daniel\bin\Daniel.Web.UI.dll
+C:\Users\dmuka\Source\Repos\daniel\WebApplication-Daniel\bin\Daniel.Web.UI.pdb

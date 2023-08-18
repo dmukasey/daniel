@@ -1,6 +1,7 @@
 using System.Data.SqlClient;
 using System.Configuration;
 
+
 namespace BusinessLayerLibrary
 {
     public class Connection
@@ -9,6 +10,7 @@ namespace BusinessLayerLibrary
         {
             string cnstring = ConfigurationManager.ConnectionStrings["cnstring"].ConnectionString;
             return new SqlConnection(cnstring);
-        }
+        }        
+
     }
 }

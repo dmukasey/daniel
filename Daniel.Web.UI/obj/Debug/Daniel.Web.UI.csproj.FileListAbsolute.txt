@@ -1,0 +1,6 @@
+C:\Users\dmuka\Source\Repos\daniel\Daniel.Web.UI\bin\Debug\Daniel.Web.UI.dll
+C:\Users\dmuka\Source\Repos\daniel\Daniel.Web.UI\bin\Debug\Daniel.Web.UI.pdb
+C:\Users\dmuka\Source\Repos\daniel\Daniel.Web.UI\obj\Debug\Daniel.Web.UI.csproj.AssemblyReference.cache
+C:\Users\dmuka\Source\Repos\daniel\Daniel.Web.UI\obj\Debug\Daniel.Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\dmuka\Source\Repos\daniel\Daniel.Web.UI\obj\Debug\Daniel.Web.UI.dll
+C:\Users\dmuka\Source\Repos\daniel\Daniel.Web.UI\obj\Debug\Daniel.Web.UI.pdb
