@@ -1,4 +1,5 @@
-﻿using System.Data.SqlClient;
+﻿using System.Data;
+using System.Data.SqlClient;
 
 namespace BusinessLayerLibrary
 {
@@ -36,5 +37,25 @@ namespace BusinessLayerLibrary
         {
             return true;
         }
+
+
+        public DataSet Listar()
+        {
+            Connection cn = new Connection();
+            SqlConnection conn = cn.getConnection();
+            conn.Open();
+
+            DataSet ds = new DataSet();
+            SqlDataAdapter adpt = new SqlDataAdapter("Select idfornecedor as id, login as usuario, senha as pwd from Fornecedores", conn);
+
+            adpt.Fill(ds);
+           
+            conn.Close();
+            conn.Dispose();
+
+            return ds;
+
+        }
+        
     }
 }

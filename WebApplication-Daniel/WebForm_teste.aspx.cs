@@ -17,11 +17,7 @@ namespace WebApplication_Daniel
 
         protected void btn_enviar_Click(object sender, EventArgs e)
         {
-            //if (txt_user.Text == "daniel" && txt_pass.Text == "1234")
-            //    Response.Redirect("default.aspx");
-            //else
-            //    lbl_mensagem.Text = "Erro no login";
-
+          
             if (rbl_tipo.Items[0].Selected)
             {
                 Fornecedor fornec = new Fornecedor();
@@ -39,6 +35,7 @@ namespace WebApplication_Daniel
                 Cliente client = new Cliente();
                 client.Login = txt_user.Text;
                 client.Senha = txt_pass.Text;
+
                 if (EfetuarLogin(client)==true)
                     //Response.Redirect("default.aspx");
                     lbl_mensagem.Text = "Sucesso";           
@@ -47,7 +44,7 @@ namespace WebApplication_Daniel
             }
         }
 
-        private bool EfetuarLogin(IUsuario usuario)
+        private bool EfetuarLogin(IUsuario usuario)  //variavel usuario pode receber qualquer classe que impelemente a interface IUsuario (Cliente e fornecedor)
         {
             if (usuario.GetType() == typeof(BusinessLayerLibrary.Cliente))
                 return ((BusinessLayerLibrary.Cliente)usuario).Logar();  //CAST  conversão explicita 
